@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/20/trunk/wheel/src/kankan/wheel/widget
+END
+WheelView.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/20/trunk/wheel/src/kankan/wheel/widget/WheelView.java
+END
+OnWheelChangedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/wheel/src/kankan/wheel/widget/OnWheelChangedListener.java
+END
+WheelAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/trunk/wheel/src/kankan/wheel/widget/WheelAdapter.java
+END
+OnWheelScrollListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/8/trunk/wheel/src/kankan/wheel/widget/OnWheelScrollListener.java
+END
+OnWheelClickedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/wheel/src/kankan/wheel/widget/OnWheelClickedListener.java
+END
+WheelScroller.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/wheel/src/kankan/wheel/widget/WheelScroller.java
+END
+WheelRecycle.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/17/trunk/wheel/src/kankan/wheel/widget/WheelRecycle.java
+END
+ItemsRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/trunk/wheel/src/kankan/wheel/widget/ItemsRange.java
+END

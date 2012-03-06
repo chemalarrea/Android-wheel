@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/20/trunk/wheel
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/18/trunk/wheel/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/14/trunk/wheel/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/wheel/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/18/trunk/wheel/AndroidManifest.xml
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/trunk/wheel/src/kankan/wheel/widget/adapters
+END
+WheelViewAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/17/trunk/wheel/src/kankan/wheel/widget/adapters/WheelViewAdapter.java
+END
+ArrayWheelAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/17/trunk/wheel/src/kankan/wheel/widget/adapters/ArrayWheelAdapter.java
+END
+AdapterWheel.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/17/trunk/wheel/src/kankan/wheel/widget/adapters/AdapterWheel.java
+END
+NumericWheelAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/17/trunk/wheel/src/kankan/wheel/widget/adapters/NumericWheelAdapter.java
+END
+AbstractWheelAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/17/trunk/wheel/src/kankan/wheel/widget/adapters/AbstractWheelAdapter.java
+END
+AbstractWheelTextAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/17/trunk/wheel/src/kankan/wheel/widget/adapters/AbstractWheelTextAdapter.java
+END
